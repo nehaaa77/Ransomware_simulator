@@ -12,7 +12,7 @@
 
 > _Here's how it runs on terminal!_
 
-![ransomware-demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZ6bzR6Y3VtYmoxOGdnczM1cWxhcDk4emZyY2R3cTNraXpvOThwbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRlGpqgxXvvWm8c/giphy.gif)
+![ransomware-demo](vdo.gif)
 
 ---
 
